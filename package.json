@@ -1,6 +1,7 @@
 {
   "name": "i-spy",
   "private": true,
+  "type": "module",
   "scripts": {
     "lint": "eslint ."
   },
